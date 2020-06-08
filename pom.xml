@@ -15,6 +15,7 @@
   <name>Kogito Apps</name>
   <description>Kogito Apps</description>
 
+  <!-- Very important change -->
   <properties>
     <version.io.quarkus>1.4.1.Final</version.io.quarkus>
     <version.frontend.plugin>1.9.1</version.frontend.plugin>
